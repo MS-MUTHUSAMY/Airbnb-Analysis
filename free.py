@@ -37,6 +37,8 @@ if SELECT == "Home":
  st.subheader('Python Scripting, Data Preprocessing, Visualization, EDA, Streamlit, MongoDb, PowerBI or Tableau')
  st.subheader('Domain:')
  st.subheader('Travel Industry, Property management and Tourism')
+    
+#----------------Explore Data----------------------#
 
 if SELECT == "Explore Data":
  fl = st.file_uploader(":file_folder: Upload a file", type=(["csv", "txt", "xlsx", "xls"]))
