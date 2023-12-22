@@ -5,5 +5,4 @@ plotly
 streamlit 
 streamlit_option_menu
 pymongo
-os
 image
