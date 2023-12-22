@@ -3,6 +3,4 @@ numpy
 seaborn
 plotly
 streamlit 
-PIL 
-Image
 pymongo
