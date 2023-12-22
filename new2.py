@@ -31,8 +31,7 @@ with st.sidebar:
 
 
 #reading the cleaned dataframe
-with open (r"C:\Users\Muthusamy\Documents\PROJECTS-2023\4.Airbnb Project\airbnb_data.csv","wb") as f:
-  df=pd.read_csv(f)
+df = pd.read_csv('C:/Users/Muthusamy/Documents/PROJECTS-2023/4.Airbnb Project/airbnb_data.csv')
 
 #home page
 if selected == "Home":
