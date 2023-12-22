@@ -3,4 +3,5 @@ numpy
 seaborn
 plotly
 streamlit 
+option_menu
 pymongo
