@@ -31,7 +31,7 @@ with st.sidebar:
 
 
 #reading the cleaned dataframe
-df = pd.read_csv(r'C:\Users\Muthusamy\Documents\PROJECTS-2023\4.Airbnb Project\airbnb_data.csv')
+df = pd.read_csv(r"C:\Users\Muthusamy\Documents\PROJECTS-2023\4.Airbnb Project\airbnb_data.csv")
 #home page
 if selected == "Home":
     col1,col2 = st.columns(2,gap= 'large')
