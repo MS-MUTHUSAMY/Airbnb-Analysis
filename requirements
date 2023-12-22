@@ -3,3 +3,11 @@ numpy
 seaborn
 matplotlib.pyplot
 warnings
+streamlit 
+streamlit_option_menu 
+option_menu
+plotly.express 
+os
+PIL 
+Image
+pymongo
