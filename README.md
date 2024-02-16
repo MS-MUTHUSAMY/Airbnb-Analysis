@@ -55,4 +55,4 @@
 ## Links :
 
 * **YouTube Link  :** https://youtu.be/LBIzZ1cdrD8
-* **LinkedIn Link : ** https://www.linkedin.com/in/ms-mgr-agri/
+* **LinkedIn Link :** https://www.linkedin.com/in/ms-mgr-agri/
